@@ -4,7 +4,7 @@ namespace App\ImpulsoLike\Web;
 
 use App\ImpulsoLike\General\GeneralConfig;
 
-class WebConfig extends GerenalConfig
+class WebConfig extends GeneralConfig
 {
 
     const CONFIG_FILE       = 'impulsolike_web';
